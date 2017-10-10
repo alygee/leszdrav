@@ -1,0 +1,62 @@
+/**********	Rounded corners ***********/
+
+/* User values */
+.rounded-box {
+	background-color: #f6f2ef;
+	padding: 20px;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-o-border-radius: 15px;
+}
+
+/* System values */
+v\:roundrect, v\:fill {
+	behavior: url(#default#VML);
+}
+.round-wrapper { /* this class name is used inside htc */
+	position: relative;
+}
+.rounded-box {
+	behavior: url(border-radius.htc) url(/border-radius.htc) 
+	url(js/border-radius.htc) url(sh/js/border-radius.htc)
+	url(/js/border-radius.htc) url(/sh/js/border-radius.htc);
+}
+
+
+/********** Mdashed list ***********/
+
+ul.mdash
+{
+	list-style-type: none;
+}
+ul.mdash li
+{
+	padding: 0;
+	behavior: expression(!this.before ? this.before = this.innerHTML = '&mdash;&nbsp;' + this.innerHTML : '');
+}
+ul.mdash>li:before
+{
+	content: '\2014\a0';
+	float: left;
+}
+ul.mdash sup
+{
+	position: relative;
+	top: -0.5em;
+	font-size: 0.75em;
+	line-height: 0;
+	vertical-align: baseline;
+}
+
+
+
+/* Dashed understrike often applies for links */
+.dashed {
+	text-decoration: none;
+	border-bottom: dashed 0.09em;
+}
+a.dashed {
+	outline: none;
+	text-decoration: none !important;
+}

@@ -1,0 +1,270 @@
+2017-03-07 21:22:02 - PHP Notice:  Undefined variable: all_options in Z:\home\localhost\www\dick\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 186
+2017-03-07 21:22:02 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\dick\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-07 21:22:02 - PHP Notice:  Undefined variable: all_options in Z:\home\localhost\www\dick\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 1516
+2017-03-07 21:23:11 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\dick\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-08 9:46:16 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\dick\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-08 9:51:28 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\dick\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-08 9:58:37 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\dick\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-08 11:01:39 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\dick\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-08 22:24:41 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\dick\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-08 22:24:43 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\dick\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-09 8:06:09 - PHP Warning:  file_get_contents(Z:\home\localhost\www\dick\system/cache/cache.language.1489003515) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in Z:\home\localhost\www\dick\system\library\cache.php on line 9
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:35 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 12:11:41 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-09 20:19:02 - PHP Notice:  Error: Unknown column 'bprice' in 'field list'<br />Error No: 1054<br />INSERT INTO oc_order_product SET order_id = '4', product_id = '202', name = 'ГИРОСКУТЕР ECODRIFT X-GO V3 BLACK', model = '202-GO V3', quantity = '1', price = '29990', total = '29990', bprice = '0', /*suppler*/ tax = '0', reward = '0' in /home/h/hgmgroup/public_html/system/database/mysql.php on line 50
+2017-03-11 6:45:20 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 16:36:26 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 16:57:30 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 17:04:03 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 17:19:16 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 17:25:32 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:13:07 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:20:42 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:23:22 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:25:38 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:28:04 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:30:41 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:33:15 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:35:20 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:38:09 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:40:50 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:45:40 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:48:56 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:49:14 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:51:22 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-13 18:53:09 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 5:53:35 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 6:01:51 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 6:07:12 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 6:14:04 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 6:18:36 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 6:34:09 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 6:41:37 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 6:42:16 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 6:48:41 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 6:53:48 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 6:59:23 - PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/h/hgmgroup/public_html/system/library/image.php on line 34
+2017-03-14 6:59:23 - PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/h/hgmgroup/public_html/image/data/product/iq-robot/83.jpg' is not a valid JPEG file in /home/h/hgmgroup/public_html/system/library/image.php on line 34
+2017-03-14 6:59:23 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/h/hgmgroup/public_html/system/library/image.php on line 109
+2017-03-14 6:59:23 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/h/hgmgroup/public_html/system/library/image.php on line 110
+2017-03-14 7:00:16 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 7:04:14 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 7:07:36 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 7:09:14 - PHP Notice:  Undefined index: 0 in /home/h/hgmgroup/public_html/admin/controller/module/attributic.php on line 129
+2017-03-14 7:09:51 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 7:15:44 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 7:31:01 - PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/h/hgmgroup/public_html/system/library/image.php on line 34
+2017-03-14 7:31:01 - PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/h/hgmgroup/public_html/image/data/product/iq-robot/64.jpg' is not a valid JPEG file in /home/h/hgmgroup/public_html/system/library/image.php on line 34
+2017-03-14 7:31:01 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/h/hgmgroup/public_html/system/library/image.php on line 109
+2017-03-14 7:31:01 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/h/hgmgroup/public_html/system/library/image.php on line 110
+2017-03-14 8:18:00 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 8:44:48 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 8:47:00 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 8:52:29 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 8:53:22 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 8:58:55 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 8:59:05 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 9:07:35 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 9:07:36 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 9:07:37 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 9:07:37 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 9:08:15 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 9:08:16 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 9:08:16 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 9:08:17 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 9:12:22 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 9:13:48 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 15:38:49 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-14 16:34:26 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 16:34:44 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-14 16:35:46 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-15 16:17:37 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-15 16:21:50 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-15 16:24:01 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-15 16:26:31 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-15 16:28:24 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-15 16:29:09 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-03-16 6:45:04 - PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: gd-png:  fatal libpng error: Read Error: truncated data in /home/h/hgmgroup/public_html/system/library/image.php on line 32
+2017-03-16 6:45:04 - PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: gd-png error: setjmp returns error condition in /home/h/hgmgroup/public_html/system/library/image.php on line 32
+2017-03-16 6:45:04 - PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/home/h/hgmgroup/public_html/image/data/category/cvet_graffiti-1___1_.png' is not a valid PNG file in /home/h/hgmgroup/public_html/system/library/image.php on line 32
+2017-03-16 6:45:04 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/h/hgmgroup/public_html/system/library/image.php on line 109
+2017-03-16 6:45:04 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/h/hgmgroup/public_html/system/library/image.php on line 110
+2017-03-16 6:45:12 - PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: gd-png:  fatal libpng error: Read Error: truncated data in /home/h/hgmgroup/public_html/system/library/image.php on line 32
+2017-03-16 6:45:12 - PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: gd-png error: setjmp returns error condition in /home/h/hgmgroup/public_html/system/library/image.php on line 32
+2017-03-16 6:45:12 - PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/home/h/hgmgroup/public_html/image/data/category/cvet_graffiti-1___1_.png' is not a valid PNG file in /home/h/hgmgroup/public_html/system/library/image.php on line 32
+2017-03-16 6:45:12 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/h/hgmgroup/public_html/system/library/image.php on line 109
+2017-03-16 6:45:12 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/h/hgmgroup/public_html/system/library/image.php on line 110
+2017-03-16 6:45:16 - PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: gd-png:  fatal libpng error: Read Error: truncated data in /home/h/hgmgroup/public_html/system/library/image.php on line 32
+2017-03-16 6:45:16 - PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: gd-png error: setjmp returns error condition in /home/h/hgmgroup/public_html/system/library/image.php on line 32
+2017-03-16 6:45:16 - PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/home/h/hgmgroup/public_html/image/data/category/cvet_graffiti-1___1_.png' is not a valid PNG file in /home/h/hgmgroup/public_html/system/library/image.php on line 32
+2017-03-16 6:45:16 - PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/h/hgmgroup/public_html/system/library/image.php on line 109
+2017-03-16 6:45:16 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/h/hgmgroup/public_html/system/library/image.php on line 110
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:26:50 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 76
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-16 15:27:08 - PHP Notice:  Undefined variable: category_id in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-03-17 10:50:01 - PHP Warning:  require_once() [<a href='function.require-once'>function.require-once</a>]: Unable to allocate memory for pool. in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-system_engine_controller.php on line 37
+2017-04-01 16:31:59 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 16:33:35 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 16:34:34 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 18:16:13 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 18:16:21 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 18:21:02 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 18:23:05 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 18:25:04 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 18:25:11 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 18:25:18 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 18:25:25 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 19:35:08 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 19:35:24 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 19:35:37 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-01 19:35:43 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-04-02 13:51:46 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\akvarelll\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-18 20:10:33 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\leszdrav\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-18 20:24:03 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\leszdrav\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-18 20:24:20 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\leszdrav\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-18 20:25:26 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\leszdrav\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-18 20:26:26 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\leszdrav\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-18 20:28:39 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\leszdrav\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-18 20:28:47 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\leszdrav\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-18 20:28:55 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\leszdrav\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-18 20:29:03 - PHP Notice:  Undefined variable: product_option in Z:\home\localhost\www\leszdrav\vqmod\vqcache\vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-21 9:27:16 - PHP Notice:  Error: Unknown column 'bprice' in 'field list'<br />Error No: 1054<br />INSERT INTO oc_order_product SET order_id = '5', product_id = '290', name = 'Мамин чай', model = '290-', quantity = '2', price = '438', total = '876', bprice = '0', /*suppler*/ tax = '0', reward = '0' in /home/l/leszdrav65/public_html/system/database/mysql.php on line 50
+2017-05-21 17:16:01 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:01 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:01 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:01 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:09 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:09 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:09 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:09 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:15 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:15 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:15 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-21 17:16:15 - PHP Notice:  Undefined variable: category_id in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-catalog_view_theme_journal2_template_product_search.tpl on line 70
+2017-05-27 18:38:38 - PHP Notice:  Undefined variable: product_option in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-27 19:03:40 - PHP Notice:  Undefined variable: product_option in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-27 19:57:51 - PHP Notice:  Undefined variable: product_option in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-27 20:01:15 - PHP Notice:  Undefined variable: product_option in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-28 14:57:09 - PHP Notice:  Undefined variable: product_option in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-28 14:57:10 - PHP Notice:  Undefined variable: product_option in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-28 14:57:11 - PHP Notice:  Undefined variable: product_option in /home/l/leszdrav65/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:15:19 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:15:26 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:15:33 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:15:42 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:15:58 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:16:04 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:16:10 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:16:29 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:16:46 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:16:55 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:17:04 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-05-31 9:17:15 - PHP Notice:  Undefined variable: product_option in /home/h/hgmgroup/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-07-18 18:57:27 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.seo_pro.1500385991): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18
+2017-07-18 18:57:27 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.seo_pro.1500385991): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18
+2017-07-18 18:57:27 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.manufacturer.0.1.1500385991): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18
+2017-07-18 18:57:28 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.language.1500385991): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18
+2017-07-18 18:57:28 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.language.1500385991): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18
+2017-07-18 18:57:28 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.currency.1500385991): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18
+2017-07-31 15:10:30 - PHP Notice:  Undefined variable: product_option in /home/l/leszdrav/public_html/vqmod/vqcache/vq2-admin_view_template_catalog_product_form.tpl on line 784
+2017-09-01 22:09:23 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.manufacturer.0.1.1504292445): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18
+2017-09-01 22:09:23 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.product.latest.1.0.1.10.1504292445): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18
+2017-09-01 22:09:23 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.language.1504292445): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18
+2017-09-01 22:09:23 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.currency.1504292445): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18
+2017-09-16 19:54:14 - PHP Warning:  unlink(/home/l/leszdrav/public_html/system/cache/cache.manufacturer.0.1.1505530874): No such file or directory in /home/l/leszdrav/public_html/system/library/cache.php on line 18

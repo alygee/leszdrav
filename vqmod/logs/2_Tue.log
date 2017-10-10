@@ -1,0 +1,168 @@
+---------- Date: 2017-06-06 07:31:29 ~ IP : 2.62.215.1 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 07:31:29 ~ IP : 2.62.215.1 ----------
+REQUEST URI : /index.php?route=journal2/assets/css
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 07:31:30 ~ IP : 2.62.215.1 ----------
+REQUEST URI : /index.php?route=journal2/assets/js
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 10:05:01 ~ IP : 2.62.246.181 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 10:05:01 ~ IP : 2.62.246.181 ----------
+REQUEST URI : /index.php?route=journal2/assets/css
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 10:05:04 ~ IP : 2.62.246.181 ----------
+REQUEST URI : /index.php?route=journal2/assets/js
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 11:43:18 ~ IP : 217.118.93.145 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=17
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 11:43:23 ~ IP : 217.118.93.145 ----------
+REQUEST URI : /index.php?route=journal2/assets/css
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 11:43:25 ~ IP : 217.118.93.145 ----------
+REQUEST URI : /index.php?route=journal2/assets/js
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 21:34:28 ~ IP : 217.118.93.187 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=17
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 21:34:29 ~ IP : 217.118.93.187 ----------
+REQUEST URI : /index.php?route=journal2/assets/css
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-06-06 21:34:29 ~ IP : 217.118.93.187 ----------
+REQUEST URI : /index.php?route=journal2/assets/js
+MOD DETAILS:
+   modFile   : /home/h/hgmgroup/public_html/vqmod/xml/da_journal2_image_cdn.xml
+   id        : Journal2 Image CDN
+   version   : 1.5.x
+   vqmver    : 2.4.0
+   author    : digital-atelier.com
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): return $this->config->get('config_ssl') . 'image/' . $new_image;
+----------------------------------------------------------------------
+
+

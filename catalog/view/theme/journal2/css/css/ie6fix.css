@@ -1,0 +1,32 @@
+html {
+	font-size: 100.01%;
+}
+
+/* Block width vertical align */
+.v-block {
+	display: table-cell;
+	vertical-align: middle;
+}
+* html .v-block img { 
+	display: block;
+	margin-top: expression((parentNode.offsetHeight - this.offsetHeight)<0 ? "0" : (parentNode.offsetHeight - this.offsetHeight)/2 + "px");
+}
+*:first-child+html .v-block img { 
+	display: block;
+	margin-top: expression((parentNode.offsetHeight - this.offsetHeight)<0 ? "0" : (parentNode.offsetHeight - this.offsetHeight)/2 + "px");
+}
+
+/* position: fixed */
+.fixed { 
+	position: absolute !important;
+  	top: expression(eval(document.documentElement.scrollTop));
+	left: 0;
+	top: 0;
+	margin: 0;
+}
+html {
+  background: url(about:blank);
+}
+
+/* wise footer fix */
+.wf-content { height: expression(document.body.clientHeight > 100? "100%" :"100px"); }

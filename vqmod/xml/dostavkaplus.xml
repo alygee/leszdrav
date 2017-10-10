@@ -1,0 +1,196 @@
+<modification>
+    <id>Dostavka Plus</id>
+	<version>2.0</version>
+    <vqmver required="true">2.4.1</vqmver>
+	<author>louise170</author>
+
+    <!-- COMMON -->
+    <file name="catalog/view/theme/*/template/checkout/shipping_method.tpl">
+        <operation error="skip">
+            <search position="replace">
+            <![CDATA[
+                echo $quote['title'];
+            ]]>
+            </search>
+            <add>
+            <![CDATA[
+                if (isset($quote['image']) and !empty($quote['image']) ) {
+                ?>
+                    <img src="<?php echo HTTP_IMAGE.$quote['image'];?>"/>
+                <?php
+                    echo '<span style="vertical-align:50px;">'.$quote['title'].'</span>';
+                }
+                else {
+                    echo $quote['title'];
+                }
+            ]]>
+            </add>
+        </operation>
+        <operation error="skip">
+            <search position="after" index="2">
+            <![CDATA[
+                </tr>
+            ]]>
+            </search>
+            <add>
+            <![CDATA[
+                <?php if (!empty($quote['description'])) { ?>
+                    <tr>
+                        <td class="code">
+                        </td>
+                        <td class="title">
+                            <label for="<?php echo $quote['code']; ?>"><?php echo $quote['description']; ?></label>
+                        </td>
+                        <td class="quote">
+                        </td>
+                    </tr>
+                <?php } ?>
+            ]]>
+            </add>
+        </operation>
+    </file>
+
+    <!-- SIMPLE -->
+    <file name="catalog/view/theme/*/template/checkout/simplecheckout_shipping.tpl">
+        <operation error="skip">
+            <search position="replace">
+            <![CDATA[
+                echo $quote['title'];
+            ]]>
+            </search>
+            <add><![CDATA[
+                if (isset($quote['image']) and !empty($quote['image']) ) {
+                ?>
+                    <img src="<?php echo HTTP_IMAGE.$quote['image'];?>"/>
+                <?php
+                    echo '<span style="vertical-align:10px;">'.$quote['title'].'</span>';
+                }
+                else {
+                    echo $quote['title'];
+                }
+            ]]>
+            </add>
+        </operation>
+
+        <operation error="skip">
+            <search position="replace">
+            <![CDATA[
+                echo !empty($quote['title']) ? $quote['title'] : '';
+            ]]>
+            </search>
+            <add><![CDATA[
+                if (isset($quote['image']) and !empty($quote['image']) ) {
+                ?>
+                    <img src="<?php echo HTTP_IMAGE.$quote['image'];?>"/>
+                <?php
+                    if (!empty($quote['title'])) {
+                        echo '<span style="vertical-align:10px;">'.$quote['title'].'</span>';
+                    }
+                }
+                else {
+                    echo !empty($quote['title']) ? $quote['title'] : '';
+                }
+            ]]>
+            </add>
+        </operation>
+    </file>
+
+    <file name="admin/language/russian/russian.php">
+        <operation error="skip">
+            <search position="after">
+            <![CDATA[
+                $_['text_clear']              = 'Удалить';
+            ]]>
+            </search>
+            <add><![CDATA[
+                $_['text_image_manager']      = 'Менеджер изображений';
+            ]]>
+            </add>
+        </operation>
+    </file>
+
+    <file name="admin/language/english/english.php">
+        <operation error="skip">
+            <search position="after">
+            <![CDATA[
+                $_['text_clear']              = 'Clear';
+            ]]>
+            </search>
+            <add><![CDATA[
+                $_['text_image_manager']      = 'Image Manager';
+            ]]>
+            </add>
+        </operation>
+    </file>
+
+    <file name="catalog/controller/checkout/simplecheckout_shipping.php">
+        <operation error="skip">
+            <search position="after">
+            <![CDATA[
+                $simple_links = !empty($simple_links) && is_array($simple_links) ? $simple_links : array();
+            ]]>
+            </search>
+            <add><![CDATA[
+                $new_simple_links = array();
+                $arr_keys = array();
+                $arr_new_keys = array();
+
+                foreach($simple_links as $key => $val) {
+                    $arr_keys[] = $key;
+                }
+
+                foreach($arr_keys as $key => $val) {
+                    $find = false;
+                    foreach($arr_keys as $k => $v) {
+                        if ($key != $k and strstr($v,$val.'.') and !in_array($v,$arr_new_keys)) {
+                            $arr_new_keys[] = $v;
+                            $find = true;
+                        }
+                    }
+
+                    if ($find == false and !in_array($val,$arr_new_keys)) {
+                        $arr_new_keys[] = $val;
+                    }
+                }
+
+                foreach ($arr_new_keys as $value) {
+                    $new_simple_links[$value] = $simple_links[$value];
+                }
+
+                $simple_links = $new_simple_links;
+
+                //print_r($simple_links);
+            ]]>
+            </add>
+        </operation>
+
+        <operation error="skip">
+            <search position="before">
+            <![CDATA[
+                $quote_data[$result['code']]
+            ]]>
+            </search>
+            <add><![CDATA[
+                if ($this->config->get('simple_childs_payment_first') && is_array($quote['quote'])) {
+                    $new_quote = array();
+
+                    foreach ($quote['quote'] as $k => $v) {
+                        if (array_key_exists($v['code'], $simple_links)) {
+                            $for_payment_methods_new = explode(",",$simple_links[$v['code']]);
+
+                            if (in_array($payment_method_code,$for_payment_methods_new)) {
+                                $new_quote[$k] = $v;
+                            }
+                        }
+                    }
+
+                    if (!empty($new_quote)) {
+                        $quote['quote'] = $new_quote;
+                    }
+                }
+            ]]>
+            </add>
+        </operation>
+    </file>
+</modification>
+

@@ -1,0 +1,131 @@
+<div class="modal-header">
+   <h3>{{title}}</h3>
+</div>
+<style>
+    .modal-body {
+        max-height: 450px !important;
+    }
+
+    .modal-body > div {
+        margin-top: 20px;
+    }
+
+    .modal-body > div > span:first-child {
+        width: 200px !important;
+        display: inline-block;
+    }
+
+    .img-select a {
+        float: none;
+    }
+
+    button{
+        margin: 0 !important;
+        height: 40px !important;
+    }
+
+    .popup-option {
+        display: block;
+    }
+    .modal-footer{
+        padding-bottom: 0;
+    }
+
+    .popup-option div input{
+        max-width: 25px !important;
+        text-align: center;
+        position: relative;
+        margin-bottom: 0 !important;
+    }
+
+    .oc2 .modal{
+        top: 50%;
+        margin-top: -172px;;
+    }
+    .oc2 .popup-option div input{
+        max-width: 30px !important;
+    }
+
+</style>
+<div class="modal-body border-editor">
+
+   <div class="border-width" data-ng-show="editor != 'hide-style'">
+       <div class="b-name">Ширина</div>
+       <div class="popup-option b-all">
+           <span>Все</span>
+           <j-opt-text data-ng-model="ngModel.border"></j-opt-text>
+       </div>
+       <div class="popup-option b-side">
+           <span>Верх</span>
+           <j-opt-text data-ng-model="ngModel.border_top"></j-opt-text>
+       </div>
+       <div class="popup-option b-side">
+           <span>Право</span>
+           <j-opt-text data-ng-model="ngModel.border_right"></j-opt-text>
+       </div>
+       <div class="popup-option b-side">
+           <span>Низ</span>
+           <j-opt-text data-ng-model="ngModel.border_bottom"></j-opt-text>
+       </div>
+       <div class="popup-option b-side">
+           <span>Лево</span>
+           <j-opt-text data-ng-model="ngModel.border_left"></j-opt-text>
+       </div>
+   </div>
+   <p class="clearfix"></p>
+
+   <div class="border-style"  data-ng-show="editor != 'hide-style'">
+       <div class="b-name">Стиль</div>
+       <div class="popup-option b-style">
+           <switch data-ng-model="ngModel.border_type">
+               <switch-option key="solid">Сплошной</switch-option>
+               <switch-option key="dashed">Пунктир</switch-option>
+               <switch-option key="dotted">Точки</switch-option>
+           </switch>
+       </div>
+   </div>
+   <p class="clearfix"></p>
+
+   <div class="border-color"  data-ng-show="editor != 'hide-style'">
+       <div class="b-name">Цвет</div>
+       <div class="popup-option b-color">
+           <j-opt-color data-ng-model="ngModel.border_color"></j-opt-color>
+       </div>
+   </div>
+   <p class="clearfix"></p>
+
+   <div class="border-radius" data-ng-show="editor != 'hide-radius'">
+       <div class="b-name">Радиус</div>
+       <div class="popup-option" data-ng-show="editor != 'hide-radius'">
+           <span>Все</span>
+           <j-opt-text data-ng-model="ngModel.border_radius"></j-opt-text>
+       </div>
+       <div class="popup-option" data-ng-show="editor != 'hide-radius'">
+           <span>ВЛ</span>
+           <j-opt-text data-ng-model="ngModel.border_radius_top"></j-opt-text>
+       </div>
+       <div class="popup-option" data-ng-show="editor != 'hide-radius'">
+           <span>ВП</span>
+           <j-opt-text data-ng-model="ngModel.border_radius_right"></j-opt-text>
+       </div>
+       <div class="popup-option" data-ng-show="editor != 'hide-radius'">
+           <span>НЛ</span>
+           <j-opt-text data-ng-model="ngModel.border_radius_left"></j-opt-text>
+       </div>
+       <div class="popup-option" data-ng-show="editor != 'hide-radius'">
+           <span>НП</span>
+           <j-opt-text data-ng-model="ngModel.border_radius_bottom"></j-opt-text>
+       </div>
+       <div class="popup-option b-radius">
+           <switch data-ng-model="ngModel.border_radius_unit">
+               <switch-option key="px">px</switch-option>
+               <switch-option key="%">%</switch-option>
+           </switch>
+       </div>
+       <p class="clearfix"></p>
+   </div>
+</div>
+<div class="modal-footer">
+   <a class="btn btn-primary green" ng-click="save()">OK</a>
+   <br /><br />
+</div>

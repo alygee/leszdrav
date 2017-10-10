@@ -1,0 +1,25 @@
+/* Set cursor to default. Web page - not a text editor */
+body {
+	cursor: default;
+}
+*[usemap] {
+	cursor: auto;
+}
+
+
+/* Reset border for images */
+img {
+	border: none;
+}
+
+/* Reset dotted border around links */
+a:active, a:hover {
+	outline: none;
+}
+
+/* Reset border, cellpadding and cellspacing for tables */
+table, td, tr, th {
+	border: none;
+	border-collapse: collapse;
+	padding: 0;
+}

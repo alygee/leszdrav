@@ -1,0 +1,47 @@
+<span class="menu-editor">
+   <select ui-select2="{minimumResultsForSearch: -1}" data-ng-model="ngModel.menu_type" data-ng-change="resetItem()">
+       <option value="category">Категория</option>
+       <option value="product">Продукт</option>
+       <option value="manufacturer">Бренд</option>
+       <option value="information">Информация</option>
+       <option value="opencart">Страница OpenCart</option>
+       <option value="blog_home">Главная Блога</option>
+       <option value="blog_category">Категория Блога</option>
+       <option value="blog_post">Статья Блога</option>
+       <option value="popup">Всплывающее Окно</option>
+       <option value="custom">Своё</option>
+   </select>
+   <span ng-switch on="ngModel.menu_type">
+       <category-search ng-switch-when="category" model="ngModel.menu_item"></category-search>
+       <product-search ng-switch-when="product" model="ngModel.menu_item"></product-search>
+       <manufacturer-search ng-switch-when="manufacturer" model="ngModel.menu_item"></manufacturer-search>
+       <information-search ng-switch-when="information" model="ngModel.menu_item"></information-search>
+       <blog-category-search ng-switch-when="blog_category" model="ngModel.menu_item"></blog-category-search>
+       <blog-post-search ng-switch-when="blog_post" model="ngModel.menu_item"></blog-post-search>
+       <select ng-switch-when="popup" ui-select2="{minimumResultsForSearch: -1, placeholder: 'Выберите Модуль...'}" data-ng-model="ngModel.menu_item">
+           <option value=""></option>
+           <option data-ng-repeat="module in popup_modules" value="{{module.module_id}}">{{module.module_data.module_name}}</option>
+       </select>
+       <input ng-switch-when="custom" class="journal-input" type="text" data-ng-model="ngModel.menu_item.url" placeholder="Url" />
+       <select ng-switch-when="opencart" ui-select2="{minimumResultsForSearch: -1}" data-ng-model="ngModel.menu_item.page">
+           <option value="common/home">Главная</option>
+           <option value="account/wishlist">Избранное</option>
+           <option value="product/compare">Сравнение</option>
+           <option value="account/account">Аккаунт</option>
+           <option value="checkout/cart">Корзина</option>
+           <option value="checkout/checkout">Оформление</option>
+           <option value="information/contact">Контакт</option>
+           <option value="account/return/insert">Возврат</option>
+           <option value="information/sitemap">Карта Сайта</option>
+           <option value="product/manufacturer">Бренды</option>
+           <option value="account/voucher">Сертификаты</option>
+           <option value="affiliate/account">Партнеры</option>
+           <option value="product/special">Акции</option>
+           <option value="product/search">Поиск</option>
+           <option value="account/order">История Заказов</option>
+           <option value="account/newsletter">Подписка на Рассылку</option>
+           <option value="login">Вход (Аккаунт)</option>
+           <option value="register">Регистрация (Выход)</option>
+       </select>
+   </span>
+</span>

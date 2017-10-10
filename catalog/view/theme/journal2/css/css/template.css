@@ -1,0 +1,49 @@
+/********** Floating blocks **********
+/* System values */
+.float-block {
+	float: left;
+	position: relative;
+}
+.v-block {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+
+
+
+/********** Left and Right columns ***********/
+.l-column {
+	width: 300px;
+	left: 0;
+	position: relative;
+	float: left;
+	height: auto;
+	display: inline-block;
+}
+.r-column {
+	margin-left: 350px;
+}
+
+
+/********** Wise footer ***********/
+.wf-content {
+	position: relative;
+	height: 100%;
+}
+.wf-footer {
+	position:absolute; 
+	bottom:0; 
+	left: 0; 	
+}
+
+/* Simplest cleaner */
+.clear { 
+	clear: both; 
+}
+
+
+/* Simple text align */
+.center {
+	text-align: center;
+}

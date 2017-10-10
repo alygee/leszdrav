@@ -1,0 +1,46 @@
+@font-face {
+	font-family: 'Ruble Georgia';
+	src: url('../rur/georgia/normal.eot');
+	src: local('☺'), 
+	url('../rur/georgia/normal.woff') format('woff'), 
+	url('../rur/georgia/ruble.svg#normal') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Ruble Georgia';
+	src: url('../rur/georgia/bold.eot');
+	src: local('☺'), 
+	url('../rur/georgia/bold.woff') format('woff'), 
+	url('../rur/georgia/ruble.svg#bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Ruble Georgia';
+	src: url('../rur/georgia/italic.eot');
+	src: local('☺'), 
+	url('../rur/georgia/italic.woff') format('woff'), 
+	url('../rur/georgia/ruble.svg#italic') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Ruble Georgia';
+	src: url('../rur/georgia/bold-italic.eot');
+	src: local('☺'), 
+	url('../rur/georgia/bold-italic.woff') format('woff'), 
+	url('../rur/georgia/ruble.svg#bold-italic') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+.ruble-georgia {
+	font-family: "Ruble Georgia", Georgia, "Times New Roman", Times, serif;
+}
+.ruble-georgia span { 
+	position: absolute; 
+	overflow: hidden; 
+	width: 1px; 
+	height: 1px; 
+	margin: 0.1ex 0 0 -0.55em; 
+}

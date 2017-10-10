@@ -1,0 +1,24 @@
+/**********	Rounded corners ***********/
+
+/* User values */
+.rounded-box {
+	background-color: #f6f2ef;
+	padding: 20px;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-o-border-radius: 15px;
+}
+
+/* System values */
+v\:roundrect, v\:fill {
+	behavior: url(#default#VML);
+}
+.round-wrapper { /* this class name is used inside htc */
+	position: relative;
+}
+.rounded-box {
+	behavior: url(border-radius-test.htc) url(/border-radius-test.htc) 
+	url(js/border-radius-test.htc) url(sh/js/border-radius-test.htc)
+	url(/js/border-radius-test.htc) url(/sh/js/border-radius-test.htc);
+}

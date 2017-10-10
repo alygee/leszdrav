@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>usergio</Author>
+  <LastAuthor>Admin</LastAuthor>
+  <Created>2016-12-27T16:17:29Z</Created>
+  <LastSaved>2016-12-27T16:17:29Z</LastSaved>
+  <Company>http://hgmgroup.tmweb.ru/</Company>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11595</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67" ss:Name="Гиперссылка">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#0563C1"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s20" ss:Name="Процентный">
+   <NumberFormat ss:Format="0%"/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s65">
+   <NumberFormat ss:Format="0.0000"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s78" ss:Parent="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" ss:Size="11"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s80">
+   <NumberFormat/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="ERC price">
+  <Table ss:ExpandedColumnCount="18" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.0625">
+   <Column ss:AutoFitWidth="0" ss:Width="99.75" ss:Span="7"/>
+   <Column ss:Index="9" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="261.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="99.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.75" ss:Span="2"/>
+   <Column ss:Index="14" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="245.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="126.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="75.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="66.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Code</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">SKU</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Quantity</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Price</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Special Price</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Main photo</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Photo1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">OPTION1-&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">SKU1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Quantity1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Add to price1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">OPTION2-&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">SKU2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Quantity2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Add to price2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">9875</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">5622</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">New product2</Data></Cell>
+    <Cell><Data ss:Type="String">Аксессуары</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">99</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">5580</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;  проверка проверка&lt;/p&gt; </Data></Cell>
+    <Cell ss:StyleID="s67" ss:HRef="https://img2.wbstatic.net/large/new/3470000/3475598-3.jpg"><Data
+      ss:Type="String">https://img2.wbstatic.net/large/new/3470000/3475598-3.jpg</Data></Cell>
+    <Cell ss:StyleID="s67" ss:HRef="https://img2.wbstatic.net/large/new/3470000/3475598-1.jpg"><Data
+      ss:Type="String">https://img2.wbstatic.net/large/new/3470000/3475598-1.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">12-34;56-78;</Data></Cell>
+    <Cell><Data ss:Type="String">a555;a666;</Data></Cell>
+    <Cell><Data ss:Type="String">1000;1000;</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">500+;1200+;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Blue;green;black;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">e555;e666;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1000;1000;</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">500+;1200+;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>4</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4375">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

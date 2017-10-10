@@ -1,0 +1,21 @@
+.float-block {
+	margin: 20px;
+}
+.block {
+	width: 150px;
+	height: 100px;
+	border: red solid 1px;
+}
+.v-block {
+	width: 150px;
+	height: 100px;
+	border: red solid 1px;
+	text-align: center;
+}
+.fixed {
+	position: fixed;
+}
+.ruble {
+	position: relative;
+	margin-left: -0.55em;
+}
